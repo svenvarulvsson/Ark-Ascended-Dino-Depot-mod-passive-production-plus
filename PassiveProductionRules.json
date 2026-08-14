@@ -513,6 +513,30 @@
                     ]
                 }
             ]
+        },
+        {
+            "dinoType": "/Game/Genesis/Dinos/Cherufe/Cherufe_Character_BP.Cherufe_Character_BP_C",
+            "chanceToProduce": 1,
+            "produces": [
+                {
+                    "intervalSeconds": 1800,
+                    "itemSelectMode": 0,
+                    "items": [
+                        {
+                            "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Metal.PrimalItemResource_Metal",
+                            "maxQuantityPerCycle": 0,
+                            "maxQuantityInTerminal": 0,
+                            "quantityPerDino": 10,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
+                            "alternateItems": [],
+                            "consumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
